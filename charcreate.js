@@ -1,5 +1,5 @@
 // Get process.stdin as the standard input object.
-var standard_input = process.stdin;
+let standard_input = process.stdin;
 
 // Set input character encoding.
 standard_input.setEncoding('utf-8');
@@ -17,6 +17,6 @@ standard_input.on('data', function(data) {
         process.exit();
     } else {
         // Print user input in console.
-        console.log('Welcome to the world ' + data);
+        console.log(`Welcome to the world ${data}`);
     }
 });
