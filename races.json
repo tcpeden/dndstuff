@@ -1,0 +1,82 @@
+[{
+        "name": "Human"
+    },
+    {
+        "name": "Wood Elf"
+    },
+    {
+        "name": "Drow"
+    },
+    {
+        "name": "Elf"
+    },
+    {
+        "name": "Half-Elf"
+    },
+    {
+        "name": "Goliath"
+    },
+    {
+        "name": "Dragonborn"
+    },
+    {
+        "name": "Dwarf"
+    },
+    {
+        "name": "Halfling"
+    },
+    {
+        "name": "Half-Orc"
+    },
+    {
+        "name": "Tiefling"
+    },
+    {
+        "name": "Aarakocra"
+    },
+    {
+        "name": "Gensai"
+    },
+    {
+        "name": "Aasimar"
+    },
+    {
+        "name": "Bugbear"
+    },
+    {
+        "name": "Firbolg"
+    },
+    {
+        "name": "Goblin"
+    },
+    {
+        "name": "Hobgolbin"
+    },
+    {
+        "name": "Kenku"
+    },
+    {
+        "name": "Kobold"
+    },
+    {
+        "name": "Lizardfolk"
+    },
+    {
+        "name": "Orc"
+    },
+    {
+        "name": "Tabaxi"
+    },
+    {
+        "name": "Triton"
+    },
+    {
+        "name": "Yaun-ti"
+    },
+    {
+        "name": "Tortle"
+    },
+    {
+        "name": "Warforged"
+    }
+]

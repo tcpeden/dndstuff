@@ -1,0 +1,53 @@
+[{
+        "name": "Barbarian",
+        "hitDice": "12"
+    },
+    {
+        "name": "Bard",
+        "hitDice": "8"
+    },
+    {
+        "name": "Cleric",
+        "hitDice": "8"
+    },
+    {
+        "name": "Fighter",
+        "hitDice": "10"
+    },
+    {
+        "name": "Druid",
+        "hitDice": "8"
+    },
+    {
+        "name": "Ranger",
+        "hitDice": "10"
+    },
+    {
+        "name": "Rogue",
+        "hitDice": "8"
+    },
+    {
+        "name": "Sorcerer",
+        "hitDice": "6"
+    },
+    {
+        "name": "Wizard",
+        "hitDice": "6"
+    },
+    {
+        "name": "Warlock",
+        "hitDice": "8"
+    },
+    {
+        "name": "Artificer",
+        "hitDice": "6"
+    },
+    {
+        "name": "Paladin",
+        "hitDice": "10"
+    },
+    {
+        "name": "Blood Hunter",
+        "hitDice": "10"
+    }
+]
